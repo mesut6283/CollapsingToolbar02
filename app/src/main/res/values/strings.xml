@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CollapsingToolbar02</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_content">With the new Design support library for Android, it has become easier for us to create some great animations with minimal effort , CollapsingToolbarLayout is the newly introduced in Lollipop , using which you can create awesome scrolling effects</string>
+</resources>
